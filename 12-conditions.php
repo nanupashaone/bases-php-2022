@@ -54,5 +54,6 @@ if($temp <= -10){
     echo "Il fait agréable dehors.";
 }
 ?>
+  
 </body>
 </html>
