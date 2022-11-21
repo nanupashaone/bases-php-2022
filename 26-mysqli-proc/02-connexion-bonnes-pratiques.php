@@ -46,6 +46,8 @@ try {
 // capture de l'erreur plutôt que son affichage immédiat
 }catch(Exception $e){
 
+    
+
     // affichage de l'erreur encodée en utf8 avec utf8_encode()
     echo utf8_encode($e->getMessage());
 }
