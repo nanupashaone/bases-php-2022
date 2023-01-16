@@ -83,3 +83,6 @@ $query4 = mysqli_query($db,$sql4) or die('Erreur de $query4');
 $resultat4 = mysqli_fetch_all($query4, MYSQLI_ASSOC);
 
 var_dump($resultat4);
+
+
+
